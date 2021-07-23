@@ -4,6 +4,8 @@ Since I used [Redis](https://redis.io/) as a "control-list" of the Token generat
 
 Also, this project has no user interface, you can use [PostMan](https://www.postman.com/) to test everything(I will add user interface later, if i have motivations : P).
 
+:heavy_heart_exclamation: :heavy_heart_exclamation: In oreder to connect to the MongoDB server you have to complete your MongoDB remote server or local server url in `config/db.js` file.
+
 so, I assumed you are using Mac and installed Redis with Homebrew, let's runing the project:
 
 ```
