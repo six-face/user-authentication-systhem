@@ -16,7 +16,7 @@ A collection of User Athentication:
 - Get user ptofile
 - Log out
 
-This project means to understand the differences between these two popular authentication model.
+This project means to understand the differences between these two popular authentication models.
 
 In general, the biggest differences are:
 
