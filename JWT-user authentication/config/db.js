@@ -3,7 +3,8 @@
 // here i am using remote MongoDB server,you can change this URL to yours
 // those who want to use local MongoDB server you can define your own localhost URL (easy to find online :) )
 const mongoose = require('mongoose')
-const MONGOURI = 'mongodb+srv://sixface1:qwe123456@cluster0.zabbv.mongodb.net/Cluster0?retryWrites=true&w=majority'
+// here complete your mongoDB link info below
+const MONGOURI = 'mongodb+srv://'
 
 const InitiateMongoServer = async () => {
   try {
